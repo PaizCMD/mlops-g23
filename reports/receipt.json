@@ -1,0 +1,54 @@
+{
+  "merchant": "TOKO ABANG",
+  "tanggal": "10.01.2023-10:11:07",
+  "item": [
+    {
+      "nama": "Beras",
+      "jumlah": "4.000 Kg X 12.500",
+      "harga": "Rp. 50.000"
+    },
+    {
+      "nama": "Minyak Goreng",
+      "jumlah": "1600 Kg X 27.500",
+      "harga": "Rp. 44.000"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "1600 Kg X 15.000",
+      "harga": "Rp. 24.000"
+    },
+    {
+      "nama": "The Celup Isi 25",
+      "jumlah": "",
+      "harga": "Rp. 6.000"
+    },
+    {
+      "nama": "800 Box X 7.500",
+      "jumlah": "",
+      "harga": "Rp. 6.000"
+    },
+    {
+      "nama": "Mie Instan",
+      "jumlah": "8.000 Pcs X 3.000",
+      "harga": "Rp. 24.000"
+    },
+    {
+      "nama": "Susu Kaleng",
+      "jumlah": "1600 Klg X 14.000",
+      "harga": "Rp. 22.400"
+    },
+    {
+      "nama": "Sarden",
+      "jumlah": "1600 Klg X 14.000",
+      "harga": "Rp. 22.400"
+    },
+    {
+      "nama": "Kardus Packing",
+      "jumlah": "800 Pcs X 9.000",
+      "harga": "Rp. 7.800"
+    }
+  ],
+  "subtotal": "Rp. 200.000.000",
+  "pajak": "Rp. 0",
+  "total": "Rp. 200.000.000"
+}
